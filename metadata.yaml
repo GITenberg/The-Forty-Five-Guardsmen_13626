@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13626#The-Forty-Five-Guardsmen
 gutenberg_issued: '2004-10-05'
 gutenberg_type: Text
 identifiers:
