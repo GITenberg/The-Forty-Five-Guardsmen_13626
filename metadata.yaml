@@ -1,0 +1,32 @@
+_repo: The-Forty-Five-Guardsmen_13626
+_version: 0.1.0
+alternative_title: Les Quarante-cinq. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas père, Alexandre
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2004-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13626'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- History -- Henry III, 1574-1589 -- Fiction'
+title: The Forty-Five Guardsmen
+url: http://www.gutenberg.org/ebooks/13626
